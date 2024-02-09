@@ -1,1 +1,3 @@
 # HF2CN
+
+利用CoLab在HuggingFace和ModelScope之间互传
